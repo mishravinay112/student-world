@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+F:\Aartek Projects\StudentWorld\Online_Book\.metadata\.plugins\org.eclipse.jdt.core
